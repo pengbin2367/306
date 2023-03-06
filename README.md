@@ -70,7 +70,17 @@ https://github.com/oldj/SwitchHosts/releases/download/v4.1.2/SwitchHosts_windows
 
 https://github.com/alibaba/nacos/releases/download/2.0.4/nacos-server-2.0.4.zip
 
+#### MySQL
 
+username: root
+
+password: root
+
+新建用户：
+
+username: guli
+
+password: 123123
 
 
 
