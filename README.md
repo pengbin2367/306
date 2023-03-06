@@ -69,3 +69,39 @@ https://github.com/oldj/SwitchHosts/releases/download/v4.1.2/SwitchHosts_windows
 #### Nacos
 
 https://github.com/alibaba/nacos/releases/download/2.0.4/nacos-server-2.0.4.zip
+
+
+
+
+
+## swq
+
+#### MySQL
+
+username: root
+
+password: 123456
+
+
+
+#### Redis
+
+password: 1234abcd
+
+
+
+
+
+## xzy
+
+#### MySQL
+
+username: root
+
+password: root
+
+新建用户：
+
+username: qingke-wiki
+
+password: qingke-wiki
