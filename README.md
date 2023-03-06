@@ -24,7 +24,7 @@ STS https://spring.io/tools
 
 https://nodejs.org/en/
 
-#### Redis5或Redis6
+#### Redis5或Redis6(文章后面的可视化工具装一个就可以了，比如Redis Desktop Manager)
 
 https://blog.csdn.net/weixin_44893902/article/details/123087435
 
