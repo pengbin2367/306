@@ -40,7 +40,7 @@ https://blog.csdn.net/qq_38190185/article/details/115921070
 
 https://code.visualstudio.com/
 
-#### Navicat或SQLyog（数据库IDE，二选一）
+#### Navicat或SQLyog（数据库IDE，二选一,推荐SQLyog）
 
 我通过百度网盘分享的文件：Navicat ...
 链接：https://pan.baidu.com/s/1HColgiiDLEnlRg6UzYSVkg 
