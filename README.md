@@ -80,6 +80,10 @@ username: guli
 
 password: 123123
 
+#### Redis
+
+password: redis63799
+
 
 
 ## swq
@@ -113,3 +117,7 @@ password: root
 username: qingke-wiki
 
 password: qingke-wiki
+
+#### Redis
+
+password: redis63799
